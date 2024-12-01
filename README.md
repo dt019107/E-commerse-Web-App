@@ -1,6 +1,6 @@
-![iPhone 15 Pro Max](https://github.com/user-attachments/assets/d7064f20-a10a-4808-b156-f945532bd348)
-![iPhone 15 Pro Max (1)](https://github.com/user-attachments/assets/86930256-6508-4d8e-83e0-9f436c98471a)
-![iPhone 15 Pro Max (2)](https://github.com/user-attachments/assets/1571248a-500f-4556-92d1-863f7db6a4ce)
+![smartmockups_m42iogrt](https://github.com/user-attachments/assets/80505af1-2183-42da-8315-78ef858ea086)
+![MacBook Air (15 inch)](https://github.com/user-attachments/assets/4aeb45e4-10ad-473f-8d1f-38294ff391d6)
+
 
 🛍️ E-Commerce Web App
 Welcome to the E-Commerce Web App 🎉, a sleek and modern UI/UX design project created in Figma! 🎨 This project showcases a visually stunning, user-friendly online shopping experience that’s bound to delight customers! 🛒💻
